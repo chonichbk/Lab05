@@ -1,4 +1,5 @@
-﻿public class Animal
+﻿namespace Lab05Lib;
+public class Animal
 {
     public string Name;
     public string Species;
